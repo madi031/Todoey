@@ -2,9 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/madi/development/Swift/Todoey/Todoey/Data Model">
-   </FileRef>
-   <FileRef
       location = "self:Todoey.xcodeproj">
    </FileRef>
 </Workspace>
